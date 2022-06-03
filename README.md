@@ -4,7 +4,7 @@ Hi, I am Alexander.
 
 ### Stack
 - PHP
-- HTML5
+- HTML5 & CSS & SCSS
 - C#
 - Nginx
 - JavaScript
