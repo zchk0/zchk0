@@ -8,6 +8,7 @@ Hi, I am Alexander.
 - C#
 - Nginx
 - JavaScript
+- Python
 
 <!--
 - Webpack
@@ -20,7 +21,7 @@ Hi, I am Alexander.
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=zchk0&show_icons=true&theme=default)
 
 ## Get in touch
-- Personal site: https://###
+- Personal site: https://zchk.ru
 - Telegram: https://t.me/alsoull
 - Twitter: 
 
