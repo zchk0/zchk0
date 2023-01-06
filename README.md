@@ -3,12 +3,11 @@
 Hi, I am Alexander.
 
 ### Stack
-- PHP
-- HTML5 & CSS & SCSS
-- C#
-- Nginx
-- JavaScript
-- Python
+PHP - 
+HTML5 & CSS & SCSS - 
+C# - 
+Nginx - 
+JavaScript
 
 <!--
 - Webpack
@@ -21,7 +20,7 @@ Hi, I am Alexander.
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=zchk0&show_icons=true&theme=default)
 
 ## Get in touch
-- Personal site: https://zchk.ru
+- Personal site: https://###
 - Telegram: https://t.me/alsoull
 - Twitter: 
 
