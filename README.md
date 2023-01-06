@@ -3,9 +3,8 @@
 Hi, I am Alexander.
 
 ### Stack
-PHP - 
+C# - Python - PHP - 
 HTML5 & CSS & SCSS - 
-C# - 
 Nginx - 
 JavaScript
 
