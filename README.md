@@ -1,7 +1,3 @@
-### Who I am ---
-
-Hi, I am Alexander.
-
 ### Stack
 C# - Python - PHP - 
 HTML5 & CSS & SCSS - 
