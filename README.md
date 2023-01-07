@@ -4,20 +4,13 @@ HTML5 & CSS & SCSS -
 Nginx - 
 JavaScript
 
-<!--
-- Webpack
-- JavaScript & TypeScript 
-- HTML5
--->
-
-
-## GitHub Stats
-![Alex's github stats](https://github-readme-stats.vercel.app/api?username=zchk0&show_icons=true&theme=default)
-
 ## Get in touch
 - Personal site: https://###
 - Telegram: https://t.me/alsoull
 - Twitter: 
+
+## GitHub Stats
+![Alex's github stats](https://github-readme-stats.vercel.app/api?username=zchk0&show_icons=true&theme=default)
 
 <!--
 **zchk0/zchk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,4 +25,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+- Webpack
+- JavaScript & TypeScript 
+- HTML5
 -->
