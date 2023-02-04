@@ -1,6 +1,6 @@
 ### Stack
 C# - Python - PHP - 
-HTML5 & CSS & SCSS - 
+HTML & CSS & SCSS - 
 Nginx - 
 JavaScript
 
