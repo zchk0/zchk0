@@ -5,8 +5,8 @@ Nginx -
 JavaScript
 
 ## Get in touch
-- Personal site: https://###
-- Telegram: https://t.me/alsoull
+- Personal site: 
+- Telegram: 
 - Twitter: 
 
 ## GitHub Stats
