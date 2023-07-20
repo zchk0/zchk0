@@ -4,10 +4,12 @@ HTML & CSS & SCSS -
 Nginx - 
 JavaScript
 
+<!--
 ## Get in touch
 - Personal site: 
 - Telegram: 
 - Twitter: 
+-->
 
 ## GitHub Stats
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=zchk0&show_icons=true&theme=default)
