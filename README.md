@@ -1,8 +1,8 @@
 ### Stack
-C# - Python - PHP - 
+Python - Laravel - PHP - 
 HTML & CSS & SCSS - 
 Nginx - 
-JavaScript
+JavaScript - C#
 
 <!--
 ## Get in touch
